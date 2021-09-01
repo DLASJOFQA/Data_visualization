@@ -32,7 +32,7 @@ types of users
 References
 
 https://classroom.udacity.com/nanodegrees/nd002-
-mena-nfp3/parts/ https://stackoverflow.com/
+mena-nfp3/parts/https://stackoverflow.com/
 https://datavizproject.com/ https://www.data-to-viz.com/
 https://www.kaggle.com/search
 https://github.com/
