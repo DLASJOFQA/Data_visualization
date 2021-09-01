@@ -1,7 +1,7 @@
 # Data_visualization
-###Customer habits of Ford GoBike System for the year 2019 by 
-###(Islam Muhammad) 
-###Dataset : Ford GoBike 
+Customer habits of Ford GoBike System for the year 2019 by 
+(Islam Muhammad) 
+Dataset : Ford GoBike 
  
 Investigation Overview 
 In this investigation, I want to look at the common customer behavior and characteristics of 
@@ -29,7 +29,9 @@ We have also identified information about most of the starting and ending statio
 information can be used to provide bicycles so that there is no disability due to the high 
 demand for degrees in these stations. We also set the highest rental days and hours for both 
 types of users 
-References https://classroom.udacity.com/nanodegrees/nd002-
+References
+
+https://classroom.udacity.com/nanodegrees/nd002-
 mena-nfp3/parts/ https://stackoverflow.com/
 https://datavizproject.com/ https://www.data-to-viz.com/
 https://www.kaggle.com/search
